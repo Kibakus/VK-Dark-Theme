@@ -8,7 +8,7 @@
 // @include      http://vk.com/*
 // @run-at       document-start
 // @downloadURL  https://raw.githubusercontent.com/Kibakus/VK-Dark-Theme/master/vk_dark_theme.user.js
-// @updateURL    https://raw.githubusercontent.com/Kibakus/VK-Dark-Theme/master/vk_dark_theme.meta.js
+// @updateURL    https://raw.githubusercontent.com/Kibakus/VK-Dark-Theme/master/vk_dark_theme.user.js
 // ==/UserScript==
 
 function addGlobalStyle(css) {
